@@ -1,0 +1,1487 @@
+                                                             
+  /*----------------------------------------------   section 1   --------------------------------------------------*/
+
+.section-1 { width: 1920px; 
+             height: 1080px;
+             background-image: url(../img/untitled-1.png); }
+
+.s1-big-box { display: -webkit-box; display: -ms-flexbox; display: flex;
+              -webkit-box-pack: end;
+                  -ms-flex-pack: end;
+                      justify-content: end; }
+
+.s1-img { width: 212px;
+          height: 146px;
+          margin-right: 444.9px;
+          margin-top: 40px; }
+
+.s1-box1 { display: -webkit-box; display: -ms-flexbox; display: flex;
+           -webkit-box-pack: end;
+               -ms-flex-pack: end;
+                   justify-content: end; }
+
+.s1-li { margin-top: 43px;
+        font-family: 'Montserrat-Light'; }
+
+.s1-li:nth-child(1) { width: 51px;
+                     height: 19px;
+                     font-size: 16px;
+                     color: #FFFFFF;
+                     margin-right: 54px; }
+
+.s1-li:nth-child(2) { width: 48px;
+                     height: 19px;
+                     font-size: 16px;
+                     color: #FFFFFF;
+                     margin-right: 53px; }
+
+.s1-li:nth-child(3) { width: 57px;
+                     height: 21px;
+                     font-size: 16px;
+                     color: #FFFFFF;
+                     margin-right: 56px; }
+
+.s1-li:nth-child(4) { width: 98px;
+                     height: 21px;
+                     font-size: 16px;
+                     color: #FFFFFF;
+                     margin-right: 54px; }
+
+.s1-li:nth-child(5) { width: 92px;
+                     height: 19px;
+                     font-size: 16px;
+                     color: #FFFFFF;
+                     margin-right: 37px; }
+
+.s1-box2 { width: 428px;
+           height: 109px;
+           background-color: #A80E0E;
+           display: -webkit-box;
+           display: -ms-flexbox;
+           display: flex;
+           -webkit-box-pack: start;
+               -ms-flex-pack: start;
+                   justify-content: start;
+           -webkit-box-align: center;
+               -ms-flex-align: center;
+                   align-items: center; }
+
+.fa-magnifying-glass { width: 33px;
+                       height: 33px;
+                       font-size: 30px;
+                       margin-left: 66px;
+                       color: #FFFFFF; }
+
+.fa-user { width: 30px;
+           height: 33px;
+           font-size: 30px;
+           margin-left: 54.5px;
+           color: #FFFFFF; } 
+
+.fa-bag-shopping { width: 23px;
+                   height: 32px;
+                   font-size: 30px;
+                   margin-left: 65px;
+                   color: #FFFFFF; }
+
+.s1-big-box1 { display: -webkit-box; display: -ms-flexbox; display: flex;
+               -webkit-box-orient: vertical;
+               -webkit-box-direction: normal;
+                   -ms-flex-direction: column;
+                       flex-direction: column; }
+
+.s1-h1 { width: 610px;
+         height: 97px;
+         font-family: 'Avengeance Mightiest Avenger Regular';
+         font-size: 96px;
+         color: #FFFFFF;
+         margin-left: 235px;
+         margin-top: 184.8px; }
+
+.s1-p1 { width: 375px;
+         height: 77px;
+         font-family: 'Montserrat-Bold';
+         font-size: 30px;
+         color: #FFFFFF;
+         margin-left: 291px;
+         margin-top: 54px; }
+
+.s1-box3 { width: 255px;
+           height: 68px;
+           display: -webkit-box;
+           display: -ms-flexbox;
+           display: flex;
+           -webkit-box-pack: space-evenly;
+               -ms-flex-pack: space-evenly;
+                   justify-content: space-evenly;
+           -webkit-box-align: center;
+               -ms-flex-align: center;
+                   align-items: center;
+           border-radius: 90px;
+           background-color: #FFAA00;
+           margin-left: 235px;
+           margin-top: 90px; }
+
+.s1-box3:hover { -webkit-box-shadow: 0px 10px 10px gray; box-shadow: 0px 10px 10px gray; }
+
+.s1-p2 { width: 168px;
+         height: 27px;
+         color: #A80E0E;
+         font-family: 'Avengeance Mightiest Avenger Regular';
+         font-size: 27px; }
+
+.fa-arrow-right { width: 21.44px;
+                  height: 12px;
+                  color: #A80E0E; }
+
+  /*----------------------------------------------   section 2   --------------------------------------------------*/
+
+
+.section-2 { width: 1920px;
+             height: 749px;
+             background-color: #FFFFFF; }
+
+.s2-big-box { display: -webkit-box; display: -ms-flexbox; display: flex;
+              -webkit-box-orient: vertical;
+              -webkit-box-direction: normal;
+                  -ms-flex-direction: column;
+                      flex-direction: column;
+              -webkit-box-align: center;
+                  -ms-flex-align: center;
+                      align-items: center; }
+
+.s2-h2 { width: 364px;
+         height: 51px;
+         color: #A80E0E;
+         font-family: 'Avengeance Mightiest Avenger Regular';
+         font-size: 50px;
+         margin-top: 152px; }
+
+.s2-p { width: 642px;
+        height: 24px;
+        color: #382E36;
+        font-family: 'Montserrat-Light';
+        font-size: 20px;
+        margin-top: 45px; }
+
+.s2-big-box1 { height: 236px;
+               margin-top: 72px;
+               display: -webkit-box;
+               display: -ms-flexbox;
+               display: flex;
+               -webkit-box-align: center;
+                   -ms-flex-align: center;
+                       align-items: center; }
+
+.s2-box1,
+.s2-box2,
+.s2-box4,
+.s2-box5,
+.s2-box6 { display: -webkit-box; display: -ms-flexbox; display: flex;
+           -webkit-box-orient: vertical;
+           -webkit-box-direction: normal;
+               -ms-flex-direction: column;
+                   flex-direction: column;
+           -webkit-box-align: center;
+               -ms-flex-align: center;
+                   align-items: center; }
+
+.s2-box1 { width: 100.06px;
+           margin-left: 291px; }
+          
+
+.s2-box1 img { width: 100.06px;
+               height: 91.92px; }
+
+.s2-box1 p { width: 80px;
+             height: 22px;
+             font-family: 'Montserrat-Regular';
+             font-size: 18px;
+             color: #000000;
+             margin-top: 39.1px; }
+
+.s2-box2 { width: 94.43px;
+           margin-left: 148.9px; } 
+
+.s2-box2 img { width: 94.43px;
+               height: 116.35px; }
+
+.s2-box2 p { width: 54px;
+             height: 22px;
+             font-family: 'Montserrat-Regular';
+             font-size: 18px;
+             color: #000000;
+             margin-top: 27.6px; }
+
+.s2-box3 { width: 248px;
+           height: 236px;
+           margin-left: 77.6px;
+           display: -webkit-box;
+           display: -ms-flexbox;
+           display: flex;
+           border-radius: 5px;
+           -webkit-box-orient: vertical;
+           -webkit-box-direction: normal;
+               -ms-flex-direction: column;
+                   flex-direction: column;
+           -webkit-box-align: center;
+               -ms-flex-align: center;
+                   align-items: center;
+           -webkit-box-pack: center;
+               -ms-flex-pack: center;
+                   justify-content: center;
+           -webkit-box-shadow: 0px 15px 15px #000000;
+                   box-shadow: 0px 15px 15px #000000; }
+
+.s2-box3 img { width: 75.13px;
+               height: 97.89px; }
+
+.s2-box3 p { width: 106px;
+             height: 22px;
+             font-family: 'Montserrat-Regular';
+             font-size: 18px;
+             color: #000000;
+             margin-top: 36.1px; }
+
+.s2-box4 { width: 69.56px;
+           margin-left: 89px; } 
+
+.s2-box4 img { width: 69.56px;
+               height: 115.93px; }
+
+.s2-box4 p { width: 90px;
+             height: 22px;
+             font-family: 'Montserrat-Regular';
+             font-size: 18px;
+             color: #000000;
+             margin-top: 27.1px; }
+ 
+.s2-box5 { width: 91.77px;
+           margin-left: 170.2px; } 
+
+ /*--------------------------------------- sendvichis dedac  -------------------------------------------------*/ 
+
+.s2-box5-rel { width: 91.77px;
+               height: 91.77px;
+               position: relative; }
+
+.s2-box5 img:nth-child(1) { width: 91.77px;
+                            height: 91.77px;
+                            position: absolute;
+                            top: 50%;
+                            left: 50%;
+                            -webkit-transform: translate(-50%,-50%);
+                                -ms-transform: translate(-50%,-50%);
+                                    transform: translate(-50%,-50%);
+                            z-index: 2; }
+
+.s2-box5 img:nth-child(2) { width: 88.25px;
+                            height: 88.25px;
+                            position: absolute;top: 50%;
+                            left: 50%;
+                            -webkit-transform: translate(-50%,-50%);
+                                -ms-transform: translate(-50%,-50%);
+                                    transform: translate(-50%,-50%);
+                            z-index: 1; }
+
+.s2-box5 img:nth-child(3) { width: 72.83px;
+                            height: 72.83px;
+                            position: absolute;
+                            bottom: 11.9px;
+                            left: 11.9px;
+                            z-index: 3; }
+
+.s2-box5 img:nth-child(4) { width: 51.07px;
+                            height: 51.07px;
+                            position: absolute;
+                            bottom: 22.2px;
+                            left: 23.9px;
+                            z-index: 4; }
+
+.s2-box5 img:nth-child(5) { width: 19.62px;
+                            height: 19.62px;
+                            position: absolute;
+                            bottom: 38.4px;
+                            left: 38px;
+                            z-index: 5; }
+
+.s2-box5 img:nth-child(6) { width: 10.59px;
+                            height: 3.53px;
+                            position: absolute;
+                            bottom: 65.3px;
+                            left: 7.1px;
+                            z-index: 6; }
+
+.s2-box5 img:nth-child(7) { width: 10.59px;
+                            height: 3px;
+                            position: absolute;
+                            bottom: 65.3px;
+                            left: 7.1px;
+                            z-index: 7; }
+
+.s2-box5 img:nth-child(7) { width: 22.94px;
+                            height: 3.53px;
+                            position: absolute;
+                            bottom: 47.7px;
+                            left: 7.1px;
+                            z-index: 7; }
+
+.s2-box5 img:nth-child(8) { width: 40.59px;
+                            height: 3.53px;
+                            position: absolute;
+                            bottom: 30px;
+                            left: 7.1px;
+                            z-index: 8; }
+
+.s2-box5 img:nth-child(9) { width: 3.53px;
+                            height: 3.53px;
+                            position: absolute;
+                            bottom: 7.1px;
+                            left: 17.6px;
+                            z-index: 9; }
+
+/*----------------------------------------------------------------------------------------------------*/
+
+.s2-box5 p { width: 106px;
+             height: 22px;
+             font-family: 'Montserrat-Regular';
+             font-size: 18px;
+             color: #000000;
+             margin-top: 41px; }
+
+.s2-box6 { width: 108.68px;
+           margin-left: 148.2px; } 
+
+.s2-box6 img { width: 108.68px;
+               height: 110.2px; }
+
+.s2-box6 p { width: 102px;
+             height: 22px;
+             font-family: 'Montserrat-Regular';
+             font-size: 18px;
+             color: #000000;
+             margin-top: 30px; }
+
+  /*----------------------------------------------   section 3   --------------------------------------------------*/
+
+.section-3 { width: 1920px;
+             height: 852px; }
+
+.s3-box { width: 1920px;
+          height: 852px;
+          display: -webkit-box;
+          display: -ms-flexbox;
+          display: flex;
+          -webkit-box-align: center;
+              -ms-flex-align: center;
+                  align-items: center;
+          -webkit-box-pack: start;
+              -ms-flex-pack: start;
+                  justify-content: start;
+          background-color: #FFAA00; }
+
+.s3-box1{ width: 809px;
+          height: 809px;
+          margin-left: 14px;
+          margin-top: 43px; }
+
+.s3-big-box { width: 1054px;
+              height: 852px;
+              margin-left: 43px; }
+
+
+.s3-box2 { width: 518px;
+           height: 112px;
+           margin-top: 367px;
+           font-family: 'Avengeance Mightiest Avenger Regular';
+           font-size: 47px;
+           color: #FFFFFF; }
+
+.s3-h2:nth-child(1) { width: 364px;
+                     height: 48px; }
+
+.s3-h2:nth-child(2) { width: 518px;
+                     height: 48px;
+                     margin-top: 16px; }
+
+.s3-box3 { width: 449px;
+           height: 100px;
+           margin-top: 65.5px;
+           -webkit-box-align: start;
+               -ms-flex-align: start;
+                   align-items: flex-start;
+           overflow: hidden; }
+
+
+.s3-box3 p { font-family: 'Montserrat-Regular';
+           font-size: 20px;
+           color: #FFFFFF; }
+
+.s3-box3:hover { overflow: visible; }
+
+
+  /*----------------------------------------------   section 4   --------------------------------------------------*/
+
+
+.section-4 { width: 1920px;
+             height: 1813px;
+             display: -webkit-box;
+             display: -ms-flexbox;
+             display: flex;
+             -webkit-box-orient: vertical;
+             -webkit-box-direction: normal;
+                 -ms-flex-direction: column;
+                     flex-direction: column;
+             -webkit-box-align: center;
+                 -ms-flex-align: center;
+                     align-items: center;
+             background-color: #FFFFFF; }
+
+.s4-h3 { width: 586px;
+         height: 41px;
+         margin-top: 136px;
+         font-family: 'Avengeance Mightiest Avenger Regular';
+         font-size: 40px;
+         color: #A80E0E; }
+
+.s4-p { width: 642px;
+        height: 24px;
+        margin-top: 64px;
+        font-family: 'Montserrat-Light';
+        font-size: 20px;
+        color: #382E36; }
+
+.s4-big-box { width: 1447px;
+              height: 1130px;
+              margin-top: 118px; }
+
+.s4-box1,
+.s4-box2 { width: 1447px;
+           height: 537px;
+           display: -webkit-box;
+           display: -ms-flexbox;
+           display: flex;
+           -webkit-box-align: start;
+               -ms-flex-align: start;
+                   align-items: flex-start; }
+
+.s4-box2 { margin-top: 56px; }
+
+.s4-img { width: 444px;
+          height: 302.52px; }
+
+.s4-mini-box1,
+.s4-mini-box2,
+.s4-mini-box3 { width: 444px;
+                height: 537px;
+                display: -webkit-box;
+                display: -ms-flexbox;
+                display: flex;
+                -webkit-box-orient: vertical;
+                -webkit-box-direction: normal;
+                    -ms-flex-direction: column;
+                        flex-direction: column;
+                border-radius: 5px;
+                -webkit-box-shadow: 0px 15px 15px #000000;
+                        box-shadow: 0px 15px 15px #000000; }
+
+
+.s4-mini-box2 { margin-left: 58px; }
+
+.s4-mini-box3 { margin-left: 57px; }
+
+.s4-h5 { width: 215px;
+         height: 27px;
+         margin-left: 36px;
+         margin-top: 73.5px;
+         font-family: 'Montserrat-Regular';
+         font-size: 22px;
+         color: #000000; }
+
+.s4-p1 { width: 369px;
+         height: 19px;
+         margin-top: 12px;
+         margin-left: 36px;
+         font-family: 'Montserrat-UltraLight';
+         font-size: 16px;
+         color: #686868; }
+
+.s4-mini-box4 { width: 253px;
+                  height: 40px;
+                  margin-top: 30px;
+                  margin-left: 36px;
+                  display: -webkit-box;
+                  display: -ms-flexbox;
+                  display: flex;
+                  -webkit-box-orient: horizontal;
+                  -webkit-box-direction: normal;
+                      -ms-flex-direction: row;
+                          flex-direction: row;
+                  -webkit-box-align: center;
+                      -ms-flex-align: center;
+                          align-items: center; }
+
+.s4-price-click { width: 164px;
+                  height: 40px;
+                  background-color: #FFAA00;
+                  border-radius: 90px;
+                  display: -webkit-box;
+                  display: -ms-flexbox;
+                  display: flex;
+                  -webkit-box-pack: center;
+                      -ms-flex-pack: center;
+                          justify-content: center;
+                  -webkit-box-align: center;
+                      -ms-flex-align: center;
+                          align-items: center; }
+
+.s4-price-click p { width: 85px;
+                    height: 18px;
+                    font-family: 'Montserrat-Light';
+                    font-size: 14px;
+                    color: #FFFFFF; }
+
+.s4-price { width: 77px;
+            height: 23px;
+            font-family: 'Avengeance Mightiest Avenger Regular';
+            font-size: 22px;
+            color: #A80E0E;
+            margin-left: 12px; }
+
+.s4-click { width: 255px;
+            height: 68px;
+            margin-top: 106px;
+            background-color: #A80E0E;
+            border-radius: 90px;
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-box-pack: center;
+                -ms-flex-pack: center;
+                    justify-content: center;
+            -webkit-box-align: center;
+                -ms-flex-align: center;
+                    align-items: center; }
+
+.s4-click p { width: 153px;
+              height: 19px;
+              font-family: 'Avengeance Mightiest Avenger Regular';
+              font-size: 18px;
+              color: #FFFFFF; }
+
+.s4-price-click:hover { -webkit-box-shadow: 0px 10px 10px #000000; box-shadow: 0px 10px 10px #000000; }
+
+ .s4-click:hover { -webkit-box-shadow: 0px 10px 10px #000000; box-shadow: 0px 10px 10px #000000; }
+
+
+  /*----------------------------------------------   section 5   --------------------------------------------------*/
+
+
+.section-5 { width: 1920px;
+             height: 852px;
+             display: -webkit-box;
+             display: -ms-flexbox;
+             display: flex;
+             background-image: url(../img/s5-img.png); }
+
+.s5-big-box { width: 449px;
+              height: 307px;
+              margin-top: 273px;
+              margin-left: 235px;
+              display: -webkit-box;
+              display: -ms-flexbox;
+              display: flex;
+              -webkit-box-orient: vertical;
+              -webkit-box-direction: normal;
+                  -ms-flex-direction: column;
+                      flex-direction: column; }
+
+.s5-h3 { width: 425PX;
+         height: 61PX;
+         color: #FFFFFF;
+         font-family: 'Avengeance Mightiest Avenger Regular';
+         font-size: 60px; }
+
+.s5-p:nth-child(2) { width: 234px;
+                     height: 30px;
+                     margin-top: 27px;
+                     font-family: 'Montserrat-UltraLight';
+                     font-size: 25px;
+                     color: #FFFFFF; }
+
+.s5-p:nth-child(3) { width: 449px;
+                     height: 40px;
+                     margin-top: 10.5px;
+                     font-family: 'Montserrat-UltraLight';
+                     font-size: 22px;
+                     color: #FFFFFF; }
+
+.s5-box { width: 449px;
+          height: 85px;
+          margin-top: 27.5px;
+          display: -webkit-box;
+          display: -ms-flexbox;
+          display: flex; }
+
+.s5-mini-box { width: 85px;
+               height: 111px;
+               margin-right: 33px;
+               display: -webkit-box;
+               display: -ms-flexbox;
+               display: flex;
+               -webkit-box-orient: vertical;
+               -webkit-box-direction: normal;
+                   -ms-flex-direction: column;
+                       flex-direction: column;
+               -webkit-box-align: center;
+                   -ms-flex-align: center;
+                       align-items: center; }
+
+.s5-mini-box:nth-child(4) { margin-right: auto; }
+
+.s5-mini-box1,
+.s5-mini-box2,
+.s5-mini-box3,
+.s5-mini-box4 { width: 85px;
+                height: 85px;
+                display: -webkit-box;
+                display: -ms-flexbox;
+                display: flex;
+                -webkit-box-pack: center;
+                    -ms-flex-pack: center;
+                        justify-content: center;
+                -webkit-box-align: center;
+                    -ms-flex-align: center;
+                        align-items: center;
+                background-color: #FFAA00;}
+
+.s5-mini-box1 p,
+.s5-mini-box2 p,
+.s5-mini-box3 p,
+.s5-mini-box4 p { width: 63px;
+                  height: 48p;
+                  font-family: 'Avengeance Mightiest Avenger Regular';
+                  font-size: 47px;
+                  color: #FFFFFF; }
+
+.s5-mini-box2 p { width: 51px; }
+
+.s5-mini-box3 p { width: 62px; }
+
+.s5-mini-box4 p { width: 54px; }
+
+.s5-mini-box h4 { width: 44px;
+                        height: 17px;
+                        margin-top: 9px;
+                        font-family: 'Avengeance Mightiest Avenger Regular';
+                        font-size: 17px;
+                        color: #FFFFFF; }
+  
+.s5-mini-box .s5-h4-2 { width: 60px; }
+
+.s5-mini-box .s5-h4-3 { width: 34px; }
+
+.s5-mini-box .s5-h4-4 { width: 32px; }
+
+
+  /*----------------------------------------------   section 6   --------------------------------------------------*/ 
+
+.section-6 { width: 1920px;
+             height: 1313px;
+             display: -webkit-box;
+             display: -ms-flexbox;
+             display: flex;
+             -webkit-box-orient: vertical;
+             -webkit-box-direction: normal;
+                 -ms-flex-direction: column;
+                     flex-direction: column;
+             -webkit-box-align: center;
+                 -ms-flex-align: center;
+                     align-items: center;
+             background-color: #FFFFFF; }
+
+.s6-h4 { width: 436px;
+         height: 41px;
+         margin-top: 155px;
+         font-family: 'Avengeance Mightiest Avenger Regular';
+         font-size: 40px;
+         color: #A80E0E; }
+
+.s6-p { width: 642px;
+        height: 24px;
+        margin-top: 64px;
+        font-family: 'Montserrat-Light';
+        font-size: 20px;
+        color: #382E36; }
+
+.s6-big-box { width: 1450px;
+              height: 636px;
+              margin-top: 126px;
+              display: -webkit-box;
+              display: -ms-flexbox;
+              display: flex;
+              -webkit-box-pack: justify;
+                  -ms-flex-pack: justify;
+                      justify-content: space-between;
+              /*align-items: center;*/ }
+
+.s6-big-box img { width: 670px;
+                  height: 636px;
+                  border-radius: 10px; }
+
+.s6-box { width: 710px;
+          height: 297px;
+          margin-top: 103px;
+          display: -webkit-box;
+          display: -ms-flexbox;
+          display: flex;
+          -webkit-box-orient: vertical;
+          -webkit-box-direction: normal;
+              -ms-flex-direction: column;
+                  flex-direction: column; }
+
+.s6-big-box i { width: 99.6px;
+                height: 84.08px;
+                color: #A80E0E;
+                font-size: 84px; }
+
+.s6-big-box p { width: 710px;
+                height: 158px;
+                margin-top: 54.9px;
+                line-height: 40px;
+                font-family: 'Montserrat-UltraLight';
+                font-size: 20px;
+                color: #000000; }
+
+  /*----------------------------------------------   section 7   --------------------------------------------------*/ 
+
+
+.section-7 { width: 1920px;
+             height: 654px;
+             display: -webkit-box;
+             display: -ms-flexbox;
+             display: flex;
+             -webkit-box-align: center;
+                 -ms-flex-align: center;
+                     align-items: center;
+             -webkit-box-pack: center;
+                 -ms-flex-pack: center;
+                     justify-content: center;
+             background-color: #FFAA00; }
+
+.s7-box1,
+.s7-box2,
+.s7-box3,
+.s7-box4 { width: 326px;
+           height: 316px;
+           display: -webkit-box;
+           display: -ms-flexbox;
+           display: flex;
+           -webkit-box-shadow: 0px 15px 15px #000000;
+                   box-shadow: 0px 15px 15px #000000;
+           -webkit-box-orient: vertical;
+           -webkit-box-direction: normal;
+               -ms-flex-direction: column;
+                   flex-direction: column;
+           -webkit-box-align: center;
+               -ms-flex-align: center;
+                   align-items: center;
+           background-color: #FFFFFF; }
+
+.s7-box2,
+.s7-box4 {margin-left: 49px;}
+
+.s7-box3 {margin-left: 48px;}
+
+  /*----------------------------------------------   s7-img1   --------------------------------------------------*/ 
+
+.s7-img-box1 { width: 75px;
+               height: 76.3px;
+               margin-top: 34px;
+               position: relative; }
+
+.s7-img1:nth-child(1) { width: 66.24px;
+                        height: 73.8px;
+                        margin-left: 8.6px;
+                        margin-top: 2.5px;
+                        position: absolute; }
+
+.s7-img1:nth-child(2) { width: 2.52px;
+                        height: 2.52px;
+                        margin-left: 25.6px;
+                        margin-top: 31.6px;
+                        position: absolute; }
+
+.s7-img1:nth-child(3) { width: 2.52px;
+                        height: 2.52px;
+                        margin-left: 38.2px;
+                        margin-top: 31.6px;
+                        position: absolute; }
+
+.s7-img1:nth-child(4) { width: 2.52px;
+                        height: 2.52px;
+                        margin-left: 12.8px;
+                        margin-top: 1.3px;
+                        position: absolute; }
+
+.s7-img1:nth-child(5) { width: 2.52px;
+                        height: 2.52px;
+                        margin-left: 50.6px;
+                        position: absolute; }
+
+.s7-img1:nth-child(6) { width: 2.52px;
+                        height: 2.52px;
+                        margin-left: 5.3px;
+                        margin-top: 25.2px;
+                        position: absolute; }
+
+.s7-img1:nth-child(7) { width: 2.52px;
+                        height: 2.52px;
+                        margin-left: 70.7px;
+                        margin-top: 17.6px;
+                        position: absolute; }
+
+.s7-img1:nth-child(8) { width: 7.14px;
+                        height: 7.14px;
+                        margin-top: 2.9px;
+                        position: absolute; }
+
+.s7-img1:nth-child(9) { width: 7.14px;
+                        height: 7.14px;
+                        margin-left: 56.6px;
+                        margin-top: 19.2px;
+                        position: absolute; }
+
+.s7-img1:nth-child(10) { width: 8.81px;
+                        height: 8.81px;
+                        margin-left: 60.2px;
+                        margin-top: 3.3px;
+                        position: absolute; }
+
+.s7-img1:nth-child(11) { width: 8.81px;
+                        height: 8.81px;
+                        margin-left: 4.8px;
+                        margin-top: 39.8px;
+                        position: absolute; }
+
+  /*--------------------------------------------------------------------------------------------------------------*/ 
+
+.s7-box1 h4 { width: 178px;
+              height: 54px;
+              margin-top: 16.7px;
+              text-align: center;
+              font-family: 'Montserrat-Regular';
+              font-size: 20px;
+              color: #000000; }
+
+.s7-line::after { content:'';
+                width: 50px;
+                height: 3px;
+                float: right;
+                clear: both;
+                background-color: #FFAA00;
+                margin-top: 17px; }
+
+.s7-box1 p { width: 218px;
+              height: 48px;
+              margin-top: 16px;
+              text-align: center;
+              font-family: 'Montserrat-UltraLight';
+              font-size: 16px;
+              color: #686868;
+              letter-spacing: 1px;
+              line-height: 1.5; }
+
+.s7-img-box2 { width: 73.14px;
+               height: 70.21px;
+               margin-top: 37px; }
+
+.s7-box2 h4 { width: 118px;
+              height: 54px;
+              margin-top: 19.8px;
+              text-align: center;
+              font-family: 'Montserrat-Regular';
+              font-size: 20px;
+              color: #000000; }
+
+.s7-box2 p {  width: 218px;
+              height: 48px;
+              margin-top: 16px;
+              text-align: center;
+              font-family: 'Montserrat-UltraLight';
+              font-size: 16px;
+              color: #686868;
+              letter-spacing: 1px;
+              line-height: 1.5;
+              overflow: hidden; }
+
+.visable:hover { overflow: visible; }
+
+  /*----------------------------------------------   s7-img3   --------------------------------------------------*/ 
+
+.s7-img-box3 { width: 64.64px;
+               height: 63.96px;
+               margin-top: 34px;
+               position: relative; }
+
+.s7-img3:nth-child(1) { width: 64.64px;
+                        height: 63.96px;
+                        position: absolute; }
+
+.s7-img3:nth-child(2) { width: 21.05px;
+                        height: 14.92px;
+                        margin-left: 36.1px;
+                        margin-top: 5.6px;
+                        position: absolute; }
+
+.s7-img3:nth-child(3) { width: 2.52px;
+                        height: 2.52px;
+                        margin-left: 12.6px;
+                        margin-top: 15.8px;
+                        position: absolute; }
+
+.s7-img3:nth-child(4) { width: 2.52px;
+                        height: 2.52px;
+                        margin-left: 18.7px;
+                        margin-top: 11.1px;
+                        position: absolute; }
+
+.s7-img3:nth-child(5) { width: 2.52px;
+                        height: 2.52px;
+                        margin-left: 25.2px;
+                        margin-top: 15.8px;
+                        position: absolute; }
+
+.s7-img3:nth-child(6) { width: 2.52px;
+                        height: 2.52px;
+                        margin-left: 28.4px;
+                        margin-top: 11.1px;
+                        position: absolute; }
+
+.s7-img3:nth-child(7) { width: 2.52px;
+                        height: 2.52px;
+                        margin-left: 30.4px;
+                        margin-top: 4.8px;
+                        position: absolute; }
+
+.s7-img3:nth-child(8) { width: 2.52px;
+                        height: 2.52px;
+                        margin-left: 34.1px;
+                        margin-top: 16.7px;
+                        position: absolute; }
+
+  /*--------------------------------------------------------------------------------------------------------------*/ 
+
+.s7-box3 h4 { width: 126px;
+              height: 54px;
+              margin-top: 23px;
+              text-align: center;
+              font-family: 'Montserrat-Regular';
+              font-size: 20px;
+              color: #000000; }
+
+.s7-box3 p {  width: 218px;
+              height: 71px;
+              margin-top: 16px;
+              text-align: center;
+              font-family: 'Montserrat-UltraLight';
+              font-size: 16px;
+              color: #686868;
+              letter-spacing: 1px;
+              line-height: 1.5; }
+
+.s7-img-box4 { width: 72.91px;
+               height: 72.91px;
+               margin-top: 36px; }
+
+.s7-box4 h4 { width: 98px;
+              height: 54px;
+              margin-top: 18.1px;
+              text-align: center;
+              font-family: 'Montserrat-Regular';
+              font-size: 20px;
+              color: #000000; }
+
+.s7-box4 p {  width: 259px;
+              height: 72px;
+              margin-top: 16px;
+              text-align: center;
+              font-family: 'Montserrat-UltraLight';
+              font-size: 16px;
+              color: #686868;
+              letter-spacing: 1px;
+              line-height: 30px; }
+
+  /*----------------------------------------------   section 8   --------------------------------------------------*/ 
+
+.section-8 { width: 1920px;
+             height: 637px;
+             display: -webkit-box;
+             display: -ms-flexbox;
+             display: flex; }
+
+.s8-big-box1 { width: 960px;
+               height: 637px;
+               display: -webkit-box;
+               display: -ms-flexbox;
+               display: flex;
+               background-color: #A80E0E; }
+
+.s8-box { width: 358px;
+          height: 422px;
+          display: -webkit-box;
+          display: -ms-flexbox;
+          display: flex;
+          -webkit-box-orient: vertical;
+          -webkit-box-direction: normal;
+              -ms-flex-direction: column;
+                  flex-direction: column;
+          -webkit-box-align: start;
+              -ms-flex-align: start;
+                  align-items: flex-start;
+          margin-top: 107px;
+          margin-left: 235px; }
+
+.s8-call { width: 118px;
+           height: 41px;
+           display: -webkit-box;
+           display: -ms-flexbox;
+           display: flex;
+           -webkit-box-align: center;
+               -ms-flex-align: center;
+                   align-items: center;
+           -webkit-box-pack: center;
+               -ms-flex-pack: center;
+                   justify-content: center;
+           border-radius: 60px;
+           background-color: #FFAA00; }
+
+.s8-call p { width: 53px;
+             height: 19px;
+             font-family: 'Montserrat-UltraLight';
+             font-size: 16px;
+             color: #FFFFFF; }
+
+.s8-box h2 { width: 298px;
+             height: 41px;
+             margin-top: 23px;
+             color: #FFFFFF;
+             font-family: 'Avengeance Mightiest Avenger Regular';
+             font-size: 40px; }
+
+.s8-time { width: 358px;
+           height: 60px;
+           margin-top: 19px;
+           display: -webkit-box;
+           display: -ms-flexbox;
+           display: flex;
+           -webkit-box-align: center;
+               -ms-flex-align: center;
+                   align-items: center;
+           -webkit-box-pack: justify;
+               -ms-flex-pack: justify;
+                   justify-content: space-between; }
+
+.s8-time img { width: 60px;
+               height: 60px; }
+
+.s8-time p { width: 273px;
+             height: 49px;
+             font-family: 'Montserrat-UltraLight';
+             font-size: 16px;
+             color: #FFFFFF;
+             line-height: 30px; }
+
+.s8-location { width: 264px;
+               height: 74.24px;
+               margin-top: 59px;
+               margin-left: 5px;
+               display: -webkit-box;
+               display: -ms-flexbox;
+               display: flex;
+               -webkit-box-align: center;
+                   -ms-flex-align: center;
+                       align-items: center;
+               -webkit-box-pack: justify;
+                   -ms-flex-pack: justify;
+                       justify-content: space-between; }
+
+.s8-location img { width: 52px;
+                   height: 74.24px; }
+
+.s8-location p { width: 185px;
+                 height: 49px;
+                 font-family: 'Montserrat-UltraLight';
+                 font-size: 16px;
+                 color: #FFFFFF;
+                 line-height: 30px;  }
+
+.s8-soc { width: 358px;
+          height: 54px;
+          margin-top: 50.8px;
+          display: -webkit-box;
+          display: -ms-flexbox;
+          display: flex;
+          -webkit-box-align: center;
+              -ms-flex-align: center;
+                  align-items: center;
+          -webkit-box-pack: start;
+              -ms-flex-pack: start;
+                  justify-content: flex-start; }
+
+.fa-facebook-f { width: 57px;
+                 height: 54px;
+                 display: -webkit-box;
+                 display: -ms-flexbox;
+                 display: flex;
+                 -webkit-box-align: center;
+                     -ms-flex-align: center;
+                         align-items: center;
+                 -webkit-box-pack: center;
+                     -ms-flex-pack: center;
+                         justify-content: center;
+                 background-color: #FFFFFF;
+                 color: #A80E0E;
+                 font-size: 24px;
+                 border-radius: 5px; }
+
+.fa-facebook-f:hover { color: blue;
+                       background-color: lightskyblue; }
+
+.fa-twitter { width: 57px;
+              height: 54px;
+              display: -webkit-box;
+              display: -ms-flexbox;
+              display: flex;
+              margin-left: 20px;
+              -webkit-box-align: center;
+                  -ms-flex-align: center;
+                      align-items: center;
+              -webkit-box-pack: center;
+                  -ms-flex-pack: center;
+                      justify-content: center;
+              background-color: #FFFFFF;
+              color: #A80E0E;
+              font-size: 24px;
+              border-radius: 5px; }
+
+.fa-twitter:hover { color: royalblue;
+                    background-color: lightgray; }
+
+.fa-instagram { width: 57px;
+                height: 54px;
+                display: -webkit-box;
+                display: -ms-flexbox;
+                display: flex;
+                margin-left: 20px;
+                -webkit-box-align: center;
+                    -ms-flex-align: center;
+                        align-items: center;
+                -webkit-box-pack: center;
+                    -ms-flex-pack: center;
+                        justify-content: center;
+                position: relative;
+                background-color: #FFFFFF;
+                color: #A80E0E;
+                font-size: 25px;
+                border-radius: 5px; }
+
+.fa-instagram:hover { color: #B006F8;
+                      font-size: 30px; }
+
+.s8-big-box2 { width: 960px;
+               height: 637px;
+               background-image: url(../img/s8-map.png);
+               display: -webkit-box;
+               display: -ms-flexbox;
+               display: flex;
+               position: relative; }
+
+.s8-map-img:nth-child(1) { width: 61.72px;
+                           height: 88.97px;
+                           position: absolute;
+                           margin-top: 257px;
+                           margin-left: 481px;
+                           z-index: 1; }
+
+.s8-map-img:nth-child(2) { width: 41px;
+                           height: 41px;
+                           position: absolute;
+                           margin-top: 268px;
+                           margin-left: 491px;
+                           z-index: 2; }
+
+.s8-map-img:nth-child(3) { width: 31.51px;
+                           height: 18.55px;
+                           position: absolute;
+                           margin-top: 279px;
+                           margin-left: 496px;
+                           z-index: 3; }
+
+  /*----------------------------------------------   section 9   --------------------------------------------------*/ 
+
+.section-9 { width: 1920px;
+             height: 567px;
+             display: -webkit-box;
+             display: -ms-flexbox;
+             display: flex;
+             -webkit-box-orient: vertical;
+             -webkit-box-direction: normal;
+                 -ms-flex-direction: column;
+                     flex-direction: column;
+             -webkit-box-align: center;
+                 -ms-flex-align: center;
+                     align-items: center;
+             -webkit-box-pack: center;
+                 -ms-flex-pack: center;
+                     justify-content: center;
+             background-color: #FFFFFF; }
+
+.s9-big-box { width: 1450px;
+              height: 301.7px;
+              display: -webkit-box;
+              display: -ms-flexbox;
+              display: flex; }
+
+.s9-box1 { width: 562px;
+           height: 302px;
+           display: -webkit-box;
+           display: -ms-flexbox;
+           display: flex;
+           -webkit-box-orient: vertical;
+           -webkit-box-direction: normal;
+               -ms-flex-direction: column;
+                   flex-direction: column;
+           -webkit-box-pack: start;
+               -ms-flex-pack: start;
+                   justify-content: flex-start; }
+
+.s9-box1-img { width: 149.55px;
+               height: 103.1px; }
+
+.s9-box1 p { width: 562px;
+             height: 102px;
+             margin-top: 32.6px;
+             font-family: 'Montserrat-UltraLight';
+             font-size: 16px;
+             color: #000000;
+             letter-spacing: 0.7px;
+             line-height: 32px;
+             overflow: hidden; }
+
+.s9-box1 p:hover { overflow: visible; }
+
+.s9-cards { width: 351px;
+            height: 53px;
+            margin-top: 11px;
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-box-align: center;
+                -ms-flex-align: center;
+                    align-items: center; }
+
+.s9-card1 { width: 49px;
+            height: 49px; }
+
+.s9-card2 { width: 49px;
+            height: 32px;
+            margin-left: 11px;
+            border-radius: 5px;
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-box-align: center;
+                -ms-flex-align: center;
+                    align-items: center;
+            -webkit-box-pack: center;
+                -ms-flex-pack: center;
+                    justify-content: center;
+            position: relative; }
+
+.s9-card21 { width: 49px;
+             height: 32px;
+             position: absolute;
+             z-index: 1; }
+
+.s9-card22 { width: 38px;
+             height: 38px;
+             margin-top: -2px;
+             margin-bottom: -4px;
+             margin-left: 1px;
+             position: absolute;
+             z-index: 2; }
+
+.s9-card3 { width: 52px;
+            height: 52px;
+            margin-left: 9px; }
+
+.s9-card4 { width: 50px;
+            height: 43px;
+            margin-top: 10px;
+            margin-left: 9px; }
+
+.s9-card5 { width: 50px;
+            height: 33px;
+            margin-left: 11px;
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-box-align: center;
+                -ms-flex-align: center;
+                    align-items: center;
+            -webkit-box-pack: center;
+                -ms-flex-pack: center;
+                    justify-content: center;
+            position: relative; }
+
+.s9-card51 { width: 50px;
+             height: 33px;
+             position: absolute;
+             z-index: 1; }
+
+.s9-card52 { width: 37px;
+             height: 17px;
+             margin-left: 1px;
+             margin-top: 2px;
+             position: absolute;
+             z-index: 2; }
+
+.s9-card6 { width: 50px;
+            height: 33px;
+            margin-left: 11px;
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-box-align: center;
+                -ms-flex-align: center;
+                    align-items: center;
+            -webkit-box-pack: center;
+                -ms-flex-pack: center;
+                    justify-content: center;
+            position: relative; }
+
+.s9-card61 { width: 50px;
+             height: 33px;
+             position: absolute;
+             z-index: 1; }
+
+.s9-card62 { width: 35px;
+             height: 14px;
+             margin-left: 1px;
+             margin-top: 1px;
+             position: absolute;
+             z-index: 2; }
+
+.s9-box2 { width: 397px;
+           height: 266px;
+           margin-top: 8.7px;
+           margin-left: 73px;
+           display: -webkit-box;
+           display: -ms-flexbox;
+           display: flex;
+           -webkit-box-orient: vertical;
+           -webkit-box-direction: normal;
+               -ms-flex-direction: column;
+                   flex-direction: column;
+           -webkit-box-align: start;
+               -ms-flex-align: start;
+                   align-items: flex-start; }
+
+.s9-box2 h3 { width: 137px;
+              height: 20px;
+              font-family: 'Avengeance Mightiest Avenger Regular';
+              font-size: 20px;
+              color: #A80E0E; }
+
+.s9-mini-box { width: 397px;
+               height: 179px;
+               margin-top: 47px;
+               display: -webkit-box;
+               display: -ms-flexbox;
+               display: flex;
+               -webkit-box-pack: justify;
+                   -ms-flex-pack: justify;
+                       justify-content: space-between;
+               font-family: 'Montserrat-UltraLight';
+               font-size: 16px;
+               line-height: 35px;
+               color: #686868; }
+
+.s9-p1 { width: 98px;
+         height: 139px; }
+
+.s9-p2 { width: 174px;
+         height: 179px; }
+
+.s9-box3 { width: 352px;
+              height: 307px;
+              margin-top: 8.7px;
+              margin-left: 66px;
+              display: -webkit-box;
+              display: -ms-flexbox;
+              display: flex;
+              -webkit-box-orient: vertical;
+              -webkit-box-direction: normal;
+                  -ms-flex-direction: column;
+                      flex-direction: column;
+              -webkit-box-align: start;
+                  -ms-flex-align: start;
+                      align-items: flex-start; }
+
+.s9-box3 h3 { width: 170px;
+              height: 20px;
+              font-family: 'Avengeance Mightiest Avenger Regular';
+              font-size: 20px;
+              color: #A80E0E; }
+
+.s9-box3 img { width: 100px;
+               height: 93px;
+               border-radius: 5px; }
+
+.s9-img-box { width: 353px;
+              height: 213px;
+              margin-top: 54px;
+              display: -webkit-box;
+              display: -ms-flexbox;
+              display: flex;
+              -webkit-box-orient: vertical;
+              -webkit-box-direction: normal;
+                  -ms-flex-direction: column;
+                      flex-direction: column; }
+
+.s9-img-box1 { width: 353px;
+               height: 93px;
+               display: -webkit-box;
+               display: -ms-flexbox;
+               display: flex;
+               -webkit-box-pack: justify;
+                   -ms-flex-pack: justify;
+                       justify-content: space-between; }
+
+.s9-img-box2 { width: 353px;
+               height: 93px;
+               margin-top: 27px;
+               display: -webkit-box;
+               display: -ms-flexbox;
+               display: flex;
+               -webkit-box-pack: justify;
+                   -ms-flex-pack: justify;
+                       justify-content: space-between; }
+
+.s9-line::after { content:'';
+                width: 50px;
+                height: 3px;
+                float: right;
+                clear: both;
+                background-color: #FFAA00;
+                margin-top: 17px; }
+
+.s9-p { width: 306px;
+        height: 19px;
+        margin-top: 107px;
+        font-family: 'Montserrat-UltraLight';
+        font-size: 16px;
+        color: #686868; }
+
+  /*----------------------------------------------   THE END   --------------------------------------------------*/ 

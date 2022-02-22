@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Avengeance Mightiest Avenger';
+    src: url('AvengeanceMightiestAvenger.eot');
+    src: url('AvengeanceMightiestAvenger.eot?#iefix') format('embedded-opentype'),
+        url('AvengeanceMightiestAvenger.woff2') format('woff2'),
+        url('AvengeanceMightiestAvenger.woff') format('woff'),
+        url('AvengeanceMightiestAvenger.ttf') format('truetype'),
+        url('AvengeanceMightiestAvenger.svg#AvengeanceMightiestAvenger') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
