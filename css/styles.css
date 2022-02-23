@@ -1,19 +1,24 @@
                                                              
   /*----------------------------------------------   section 1   --------------------------------------------------*/
+.s1,
+.section-1 { max-width: 1920px;
+             width: 100%; 
+             height: 1080px; }
 
-.section-1 { width: 1920px; 
-             height: 1080px;
-             background-image: url(../img/untitled-1.png); }
+.s1 { background-image: url(../img/untitled-1.png);
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center; }
 
 .s1-big-box { display: -webkit-box; display: -ms-flexbox; display: flex;
               -webkit-box-pack: end;
                   -ms-flex-pack: end;
                       justify-content: end; }
-
+.s1-img img,
 .s1-img { width: 212px;
-          height: 146px;
-          margin-right: 444.9px;
-          margin-top: 40px; }
+          height: 146px; }
+
+.s1-img { margin: 40px auto; }
 
 .s1-box1 { display: -webkit-box; display: -ms-flexbox; display: flex;
            -webkit-box-pack: end;
@@ -23,37 +28,38 @@
 .s1-li { margin-top: 43px;
         font-family: 'Montserrat-Light'; }
 
-.s1-li:nth-child(1) { width: 51px;
-                     height: 19px;
-                     font-size: 16px;
-                     color: #FFFFFF;
-                     margin-right: 54px; }
+.s1-li:nth-child(1) li { width: 51px;
+                         height: 19px;
+                         font-size: 16px;
+                         color: #FFFFFF;
+                         margin-right: 54px; }
 
-.s1-li:nth-child(2) { width: 48px;
-                     height: 19px;
-                     font-size: 16px;
-                     color: #FFFFFF;
-                     margin-right: 53px; }
+.s1-li:nth-child(2) li { width: 48px;
+                         height: 19px;
+                         font-size: 16px;
+                         color: #FFFFFF;
+                         margin-right: 53px; }
 
-.s1-li:nth-child(3) { width: 57px;
-                     height: 21px;
-                     font-size: 16px;
-                     color: #FFFFFF;
-                     margin-right: 56px; }
+.s1-li:nth-child(3) li { width: 57px;
+                         height: 21px;
+                         font-size: 16px;
+                         color: #FFFFFF;
+                         margin-right: 56px; }
 
-.s1-li:nth-child(4) { width: 98px;
-                     height: 21px;
-                     font-size: 16px;
-                     color: #FFFFFF;
-                     margin-right: 54px; }
+.s1-li:nth-child(4) li { width: 98px;
+                         height: 21px;
+                         font-size: 16px;
+                         color: #FFFFFF;
+                         margin-right: 54px; }
 
-.s1-li:nth-child(5) { width: 92px;
-                     height: 19px;
-                     font-size: 16px;
-                     color: #FFFFFF;
-                     margin-right: 37px; }
+.s1-li:nth-child(5) li { width: 92px;
+                         height: 19px;
+                         font-size: 16px;
+                         color: #FFFFFF;
+                         margin-right: 37px; }
 
-.s1-box2 { width: 428px;
+.s1-box2 { max-width: 428px;
+           width: 100%;
            height: 109px;
            background-color: #A80E0E;
            display: -webkit-box;
@@ -84,7 +90,10 @@
                    margin-left: 65px;
                    color: #FFFFFF; }
 
-.s1-big-box1 { display: -webkit-box; display: -ms-flexbox; display: flex;
+.s1-big-box1 { width: 610px;
+               margin-top: 12%;
+               margin-left: 10%;
+               display: -webkit-box; display: -ms-flexbox; display: flex;
                -webkit-box-orient: vertical;
                -webkit-box-direction: normal;
                    -ms-flex-direction: column;
@@ -94,16 +103,14 @@
          height: 97px;
          font-family: 'Avengeance Mightiest Avenger Regular';
          font-size: 96px;
-         color: #FFFFFF;
-         margin-left: 235px;
-         margin-top: 184.8px; }
+         color: #FFFFFF; }
 
 .s1-p1 { width: 375px;
          height: 77px;
          font-family: 'Montserrat-Bold';
          font-size: 30px;
          color: #FFFFFF;
-         margin-left: 291px;
+         margin-left: 56px;
          margin-top: 54px; }
 
 .s1-box3 { width: 255px;
@@ -119,7 +126,6 @@
                    align-items: center;
            border-radius: 90px;
            background-color: #FFAA00;
-           margin-left: 235px;
            margin-top: 90px; }
 
 .s1-box3:hover { -webkit-box-shadow: 0px 10px 10px gray; box-shadow: 0px 10px 10px gray; }
@@ -136,10 +142,14 @@
 
   /*----------------------------------------------   section 2   --------------------------------------------------*/
 
+.s2,
+.section-2 { max-width: 1920px;
+             width: 100%;
+             height: 749px; }
 
-.section-2 { width: 1920px;
-             height: 749px;
-             background-color: #FFFFFF; }
+
+ .s2 { flex-direction: column;
+       background-color: #FFFFFF; }
 
 .s2-big-box { display: -webkit-box; display: -ms-flexbox; display: flex;
               -webkit-box-orient: vertical;
@@ -164,8 +174,11 @@
         font-size: 20px;
         margin-top: 45px; }
 
-.s2-big-box1 { height: 236px;
-               margin-top: 72px;
+.s2-big-box1 { max-width: 1280px;
+               width: 100%;
+               height: 236px;
+               margin: 72px auto;
+               justify-content: space-around;
                display: -webkit-box;
                display: -ms-flexbox;
                display: flex;
@@ -186,8 +199,7 @@
                -ms-flex-align: center;
                    align-items: center; }
 
-.s2-box1 { width: 100.06px;
-           margin-left: 291px; }
+.s2-box1 { width: 100.06px; }
           
 
 .s2-box1 img { width: 100.06px;
@@ -200,8 +212,7 @@
              color: #000000;
              margin-top: 39.1px; }
 
-.s2-box2 { width: 94.43px;
-           margin-left: 148.9px; } 
+.s2-box2 { width: 94.43px; } 
 
 .s2-box2 img { width: 94.43px;
                height: 116.35px; }
@@ -215,7 +226,6 @@
 
 .s2-box3 { width: 248px;
            height: 236px;
-           margin-left: 77.6px;
            display: -webkit-box;
            display: -ms-flexbox;
            display: flex;
@@ -243,8 +253,7 @@
              color: #000000;
              margin-top: 36.1px; }
 
-.s2-box4 { width: 69.56px;
-           margin-left: 89px; } 
+.s2-box4 { width: 69.56px; } 
 
 .s2-box4 img { width: 69.56px;
                height: 115.93px; }
@@ -256,8 +265,7 @@
              color: #000000;
              margin-top: 27.1px; }
  
-.s2-box5 { width: 91.77px;
-           margin-left: 170.2px; } 
+.s2-box5 { width: 91.77px; } 
 
  /*--------------------------------------- sendvichis dedac  -------------------------------------------------*/ 
 
@@ -349,8 +357,7 @@
              color: #000000;
              margin-top: 41px; }
 
-.s2-box6 { width: 108.68px;
-           margin-left: 148.2px; } 
+.s2-box6 { width: 108.68px; } 
 
 .s2-box6 img { width: 108.68px;
                height: 110.2px; }
