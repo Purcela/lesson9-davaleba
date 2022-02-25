@@ -1,3 +1,10 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.3.6,
+* Autoprefixer: v10.3.1
+* Browsers: last 4 version
+*/
+
                                                              
   /*----------------------------------------------   section 1   --------------------------------------------------*/
 
@@ -196,9 +203,14 @@
                 width: 100%;
                 max-height: 236px;
                 height: 100%;
+                display: -webkit-box;
+                display: -ms-flexbox;
                 display: flex;
-                justify-content: space-around;
-                align-items: center; }
+                -ms-flex-pack: distribute;
+                    justify-content: space-around;
+                -webkit-box-align: center;
+                    -ms-flex-align: center;
+                        align-items: center; }
 
 .s2-mini-box1 { max-width: 600px; }
 
