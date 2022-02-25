@@ -5,13 +5,16 @@
 
 .s1-img { display: none; }
 
+.s1-big-box { justify-content: space-between;
+              padding-left: 15px; }
+
 /*----------------------------------------------   section 2   --------------------------------------------------*/
 
 .s2-big-box1 { -webkit-box-orient: vertical; -webkit-box-direction: normal; -ms-flex-direction: column; flex-direction: column;
-               margin: 30px auto; }
+               flex-wrap: wrap;
+               align-content: center; }
 .s2-mini-box,
 .s2-mini-box1 { max-width: 770px;
-                margin: 0 auto;
                 -webkit-box-pack: space-evenly;
                     -ms-flex-pack: space-evenly;
                         justify-content: space-evenly; }
