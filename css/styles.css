@@ -404,13 +404,16 @@
              width: 100%;
              height: 852px; }
 
-.s3-box { display: -webkit-box;
+.section-3 { background-color: #FFAA00; }
+
+.s3-box { width: 280px;
+          margin: 0 auto;
+          display: -webkit-box;
           display: -ms-flexbox;
           display: flex;
           -webkit-box-align: center;
               -ms-flex-align: center;
-                  align-items: center;
-          background-color: #FFAA00; }
+                  align-items: center; }
 
 .s3-box1,
 .s3-box1 img { max-width: 809px;
@@ -452,7 +455,7 @@
 
 .s3-box3 p { font-family: 'Montserrat-Regular';
            font-size: 20px;
-           line-height: 25px;
+           line-height: 27px;
            color: #FFFFFF; }
 
 .s3-box3:hover { overflow: visible; }
@@ -659,27 +662,31 @@
                   -ms-flex-direction: column;
                       flex-direction: column; }
 
-.s5-h3 { width: 425PX;
+.s5-h3 { max-width: 425PX;
+         width: 100%;
          height: 61PX;
          color: #FFFFFF;
          font-family: 'Avengeance Mightiest Avenger Regular';
          font-size: 60px; }
 
-.s5-p:nth-child(2) { width: 234px;
+.s5-p:nth-child(2) { max-width: 234px;
+                     width: 100%;
                      height: 30px;
                      margin-top: 27px;
                      font-family: 'Montserrat-UltraLight';
                      font-size: 25px;
                      color: #FFFFFF; }
 
-.s5-p:nth-child(3) { width: 449px;
+.s5-p:nth-child(3) { max-width: 449px;
+                     width: 100%;
                      height: 40px;
                      margin-top: 10.5px;
                      font-family: 'Montserrat-UltraLight';
                      font-size: 22px;
                      color: #FFFFFF; }
 
-.s5-box { width: 449px;
+.s5-box { max-width: 449px;
+          width: 100%;
           height: 85px;
           margin-top: 27.5px;
           display: -webkit-box;
@@ -1176,12 +1183,20 @@
 .s8-time img { width: 60px;
                height: 60px; }
 
-.s8-time p { width: 273px;
-             height: 49px;
-             font-family: 'Montserrat-UltraLight';
-             font-size: 16px;
-             color: #FFFFFF;
-             line-height: 30px; }
+.p1 { width: 273px;
+      height: 49px;
+      font-family: 'Montserrat-UltraLight';
+      font-size: 16px;
+      color: #FFFFFF;
+      line-height: 30px; }
+
+.p2 { display: none;
+      width: 273px;
+      height: 49px;
+      font-family: 'Montserrat-UltraLight';
+      font-size: 16px;
+      color: #FFFFFF;
+      line-height: 30px; }
 
 .s8-location { width: 264px;
                height: 74.24px;
@@ -1382,7 +1397,8 @@
              line-height: 32px;
              overflow: hidden; }
 
-.s9-box1 p:hover { overflow: visible; }
+.s9-box1 p:hover { overflow: visible;
+                   height: 100%; }
 
 .s9-cards { width: 351px;
             height: 53px;
