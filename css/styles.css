@@ -406,8 +406,7 @@
 
 .section-3 { background-color: #FFAA00; }
 
-.s3-box { width: 280px;
-          margin: 0 auto;
+.s3-box { margin: 0 auto;
           display: -webkit-box;
           display: -ms-flexbox;
           display: flex;
@@ -546,7 +545,7 @@
                         box-shadow: 0px 15px 15px #000000; }
 
 .s4-mini-box2,
-.s4-mini-box3 { margin-left: 25px;}
+.s4-mini-box3 { margin-left: 20px;}
 
 
 .s4-h5 { max-width: 215px;
