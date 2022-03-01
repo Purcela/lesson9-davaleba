@@ -99,9 +99,10 @@
 .s9-box1 { margin-left: 15px; }
 
 .s9-mini-box { -webkit-box-orient: vertical; -webkit-box-direction: normal; -ms-flex-direction: column; flex-direction: column; }
-.s9-img-box,
+
 .s9-img-box1,
-.s9-img-box2 { width: 320px; }               }
+.s9-img-box2 { width: 320px; }
+               }
 .s9-p1,
 .s9-p2,
 .s9-line1,

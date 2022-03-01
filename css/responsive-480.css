@@ -204,21 +204,33 @@
 .s9-box1 p { min-width: 0;
              height: 200px; }
 
-.s9-box3 { height: 390px; }
+.s9-box3 { height: 450px; }
 
 .s9-mini-box { flex-wrap: wrap; }
 
-.s9-img-box { flex-direction: row; }
+.s9-img-box { margin-right: 0;
+              height: 100%;
+              flex-direction: row;
+              justify-content: space-evenly; }
 
 
- .s9-img-box1 { flex-direction: column;
+.s9-img-box1,
+.s9-img-box2 { flex-direction: column;
                 align-items: center;
-                 }
+                width: 101px;
+                height: 100%; }
 
+.s9-img-box2 { margin-top: 0; }
 
- .s9-img-box2 { flex-direction: column; }
+.s9-cards { max-width: 351px;
+            width: 100%;
+            height: 105px;
+            flex-direction: column; }
 
+.s9-card-box { justify-content: space-around; }
 
+.s9-p { width: 220px;
+        font-size: 10px; }
 
 
 
